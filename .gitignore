@@ -1,0 +1,18 @@
+# 忽略原始零散健康存摺 HTML 檔案與未加密本機整合報告
+檢驗檢查結果_*.html
+門診資料_*.html
+健康存摺整合報告_*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
